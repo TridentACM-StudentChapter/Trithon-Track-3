@@ -1,3 +1,5 @@
 # Welcome Team
- #Team Name:  
- #update the read file also.
+ # Problem Statement
+ # Solution: 
+ # Tech stack: 
+ # Team Member Name & detalls:
